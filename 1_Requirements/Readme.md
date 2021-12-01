@@ -73,7 +73,7 @@ This system cannot be used for very high temperature.
 ### High Level Requirements
 
 
-|**ID**|**Description**|
+| **ID** | **Description** |
 | :- | :- |
 |HLR1|Microcontroller unit    |
 |HLR2|Switches|
@@ -84,7 +84,7 @@ This system cannot be used for very high temperature.
 ### Low Level Requirements
 
 
-|**ID**|**Description** |**HLR ID**|
+| **ID** | **Description** | **HLR ID** |
 | :- | :- | :- |
 |LLR1|ATMega328|HLR1|
 |LLR2|ADCand Potentiometer|HLR3|
