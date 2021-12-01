@@ -1,10 +1,10 @@
 # Requirements
 
-## Introduction:
+## Introduction
 
 The heat control system is used to control the temperature of the car seat. When a person gets seated on a car, the button sensor will be activated. After that, the user gets access to turn ON the heater. The temperature sensor keeps monitoring the temperature and sends the analog value to the microcontroller. The microcontroller processes the analog input of the temperature sensor and outputs a temperature value through serial communication. All the activities of the control system are done on a Atmega328 microcontroller.
 
-## Components used:
+## Components used
 
 ATmega328 microcontroller 
 
@@ -16,7 +16,7 @@ LED
 
 LCD display
 
-## Software used:
+## Software used
 
 SimulIDE
 
@@ -24,7 +24,7 @@ GCC Compiler for AVR
 
 Code block
 
-## Features:
+## Features
 
 The System will be able to tell whether a person is seated or not.
 
@@ -34,7 +34,7 @@ The temperature sensor keeps monitoring the temperature and sends the analog val
 
 ## SWOT - Strengths, Weakness, Opportunities and Threats
 
-### Strengths:
+### Strengths
 
 Robust in nature 
 
@@ -44,19 +44,19 @@ Easily accessible by the any person
 
 High efficiency
 
-### Weakness:
+### Weakness
 
 This system can be used at low to moderate temperature.
 
-### Opportunities:
+### Opportunities
 
 This system can be expanded by adding few more features depending on the user requirement. 
 
-### Threats:
+### Threats
 
 This system cannot be used for very high temperature.
 
-## 4W's and 1H:
+## 4W's and 1H
 
 *What* - Heating control system in a vehicle
 
@@ -70,7 +70,7 @@ This system cannot be used for very high temperature.
 
 ## Detail Requirements:
 
-### High Level Requirements:
+### High Level Requirements
 
 
 |**ID**|**Description**|
@@ -81,7 +81,7 @@ This system cannot be used for very high temperature.
 |HLR4|Heater|
 |HLR5|Display CDD CRO|
 
-### Low Level Requirements:
+### Low Level Requirements
 
 
 |**ID**|**Description** |**HLR ID**|
