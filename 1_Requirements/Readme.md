@@ -68,7 +68,7 @@ This system cannot be used for very high temperature.
 
 *How* - By using sensors
 
-## Detail Requirements:
+## Detail Requirements
 
 ### High Level Requirements
 
